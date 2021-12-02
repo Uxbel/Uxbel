@@ -35,10 +35,12 @@
   
 ## 📊 My Github Stats
 
-  <br/>
-    <a href="https://github.com/Uxbel/github-readme-stats"><img alt="Uxbel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Uxbel&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Uxbel/github-readme-stats"><img alt="Uxbel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uxbel&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+<br/>
+<div >
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Uxbel&show_icons=true&theme=algolia&icon_color=344E93&hide_border=true" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uxbel&layout=compact&theme=algolia&hide_border=true" />
+</div>
+<br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
 

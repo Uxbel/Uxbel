@@ -1,19 +1,19 @@
-<h1 align="left">Hi 👋, I'm Jorge Belda</h1>
+<h1 align="left">Hi 👋, I'm Jorge Belda - Uxbel</h1>
 <h3 align="left">Programming & Ux Enthusiast 👩‍💻 from Alicante (Spain)</h3>
 
 - 🌱 I’m currently learning **about design and development of digital
-products.** <br>
-- 👯 I’m looking to collaborate on **motivating and high-impact
-projects 💻** <br>
-- 💬 Ask me about **Full stack development & Ux** <br>
-- 📫 How to reach me **jorge@uxbel.com** <br>
+products.** <br />
+- 👯 I’m looking to collaborate on **motivating and high-impact projects 💻**
+<br />
+- 💬 Ask me about **Full stack development & Ux** <br />
+- 📫 How to reach me **jorge@uxbel.com** <br />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5"
       width="40"
       height="40"
     />
@@ -26,62 +26,10 @@ projects 💻** <br>
       height="40"
     />
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
-      alt="flask"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
-      alt="heroku"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://www.adobe.com/in/products/illustrator.html"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
-      alt="illustrator"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg"
-      alt="invision"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      alt="bootstrap"
       width="40"
       height="40"
     />
@@ -94,6 +42,31 @@ projects 💻** <br>
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      alt="python"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
+      alt="flask"
       width="40"
       height="40"
     />
@@ -114,14 +87,6 @@ projects 💻** <br>
       height="40"
     />
   </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-      alt="photoshop"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
@@ -138,18 +103,28 @@ projects 💻** <br>
       height="40"
     />
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
+      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+      alt="git"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <a href="https://heroku.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
+      src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
+      alt="heroku"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <br />
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+      alt="figma"
       width="40"
       height="40"
     />
@@ -162,6 +137,14 @@ projects 💻** <br>
       height="40"
     />
   </a>
+  <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg"
+      alt="invision"
+      width="40"
+      height="40"
+    />
+  </a>
   <a
     href="https://www.adobe.com/products/xd.html"
     target="_blank"
@@ -170,6 +153,27 @@ projects 💻** <br>
     <img
       src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"
       alt="xd"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://www.adobe.com/in/products/illustrator.html"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
+      alt="illustrator"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+      alt="photoshop"
       width="40"
       height="40"
     />
@@ -190,10 +194,15 @@ projects 💻** <br>
 
 <h3 align="left">My Github Stats:</h3>
 
-<div >
-    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Uxbel&show_icons=true&theme=algolia&icon_color=344E93&hide_border=true" />
-    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uxbel&layout=compact&theme=algolia&hide_border=true" />
-    <br><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<div>
+  <img
+    height="170px"
+    src="https://github-readme-stats.vercel.app/api?username=Uxbel&show_icons=true&theme=algolia&icon_color=344E93&hide_border=true"
+  />
+  <img
+    height="170px"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uxbel&layout=compact&theme=algolia&hide_border=true"
+  />
+  <br /><b>Note:</b> Top languages is only a metric of the languages my public
+  code consists of and doesn't reflect experience or skill level.
 </div>
-
-

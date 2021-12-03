@@ -3,8 +3,7 @@
 
 - 🌱 I’m currently learning **about design and development of digital
 products.** <br />
-- 👯 I’m looking to collaborate on **motivating and high-impact projects 💻**
-<br />
+- 👯 I’m looking to collaborate on **motivating and high-impact projects 💻** <br />
 - 💬 Ask me about **Full stack development & Ux** <br />
 - 📫 How to reach me **jorge@uxbel.com** <br />
 

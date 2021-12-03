@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Jorge Belda - Uxbel</h1>
+<h1 align="left">Hi 👋, I'm Jorge Belda</h1>
 <h3 align="left">Programming & Ux Enthusiast 👩‍💻 from Alicante (Spain)</h3>
 
 - 🌱 I’m currently learning **about design and development of digital

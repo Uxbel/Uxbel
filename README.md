@@ -5,7 +5,6 @@
 products.** <br />
 - 👯 I’m looking to collaborate on **motivating and high-impact projects 💻** <br />
 - 💬 Ask me about **Full stack development & Ux** <br />
-- 📫 How to reach me **jorge@uxbel.com** <br />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
